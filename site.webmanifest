@@ -1,0 +1,12 @@
+{
+  "name": "Barberton Pro Plumbing",
+  "short_name": "Barberton Plumbing",
+  "icons": [
+    {"src": "/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "/icon-512.png", "sizes": "512x512", "type": "image/png"}
+  ],
+  "theme_color": "#A85D33",
+  "background_color": "#F7F4EE",
+  "display": "browser",
+  "start_url": "/"
+}
